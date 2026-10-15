@@ -1,0 +1,16 @@
+/* Utilizando o background-attachment para fundos */
+
+body{
+font-family: sans-serif;
+background-image: url("../Aula02/img/torfim\(4\).jpeg");
+background-repeat: no-repeat; 
+background-attachment: fixed;   
+}
+
+
+/* utilizando a propriedade abreviada para background */
+.ex2{
+background: url("../img/grassjpg") no-repeat #999999;
+color: white;
+  
+}
